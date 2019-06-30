@@ -1,0 +1,33 @@
+{
+  "name": "ease-task-autoprefixer",
+  "version": "1.0.0",
+  "description": "Autoprefixer plugin for Ease task manager",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chisel/ease-task-autoprefixer.git"
+  },
+  "keywords": [
+    "ease",
+    "task",
+    "runner",
+    "autoprefixer",
+    "plugin"
+  ],
+  "author": "Ramtin Soltani <ramtin@chiselpowered.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chisel/ease-task-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/chisel/ease-task-autoprefixer#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.4",
+    "lodash": "^4.17.11",
+    "postcss": "^7.0.17"
+  }
+}
