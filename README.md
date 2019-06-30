@@ -25,7 +25,7 @@ This plugin takes a config object similar to [Autoprefixer Options](https://www.
   - `dir`: Path to a directory containing all the SASS files, relative to `easeconfig.js`
   - `outDir`: Path to the output directory where the CSS files should be written, relative to `easeconfig.js`
   - `cleanOutDir`: Boolean indicating if the output directory should be emptied first
-  - `browserslist`: A path to the `.browserslistrc`, file relative to `easeconfig.js`
+  - `browserslist`: A path to the `.browserslistrc` file, relative to `easeconfig.js`
 
 > Either `browserslist` or `overrideBrowserslist` must be present.
 
