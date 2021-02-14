@@ -1,6 +1,6 @@
 {
   "name": "ease-task-autoprefixer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Autoprefixer plugin for Ease task manager",
   "main": "task.js",
   "scripts": {
